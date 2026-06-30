@@ -1,0 +1,18 @@
+*{
+    background-color: aqua;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+.asil{
+    position: fixed;
+    left: 0%;
+    right: 75%;
+    top: 0%;
+    bottom: 60%;
+    border: solid 1px blue;
+}
